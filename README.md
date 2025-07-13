@@ -34,7 +34,6 @@ The full paper is available on **Zenodo**:
 The repository includes:
 - `model.py`: Full PyTorch implementation of NEAX with entropy-based controller.
 - `rl.py`: Integration with Stable-Baselines3 (PPO) and OpenAI Gym environments.
-- `final_model.py`: Optional variant or legacy version.
 
 ### 🔧 Features:
 - Self-expanding `NEAXNetwork` with automatic growth and freezing.
