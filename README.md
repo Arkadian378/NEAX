@@ -26,7 +26,6 @@ The method introduces:
 The full paper is available on **Zenodo**:
 
 🔗 [NEAX Preprint (Zenodo)](https://zenodo.org/records/XXXXXXXX)  
-_(replace with actual link if published)_
 
 ---
 
